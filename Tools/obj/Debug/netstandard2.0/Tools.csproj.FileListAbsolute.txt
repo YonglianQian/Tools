@@ -1,8 +1,0 @@
-C:\Users\abrahamq.WICRESOFT\source\repos\Tools\Tools\bin\Debug\netstandard2.0\Tools.deps.json
-C:\Users\abrahamq.WICRESOFT\source\repos\Tools\Tools\bin\Debug\netstandard2.0\Tools.dll
-C:\Users\abrahamq.WICRESOFT\source\repos\Tools\Tools\bin\Debug\netstandard2.0\Tools.pdb
-C:\Users\abrahamq.WICRESOFT\source\repos\Tools\Tools\obj\Debug\netstandard2.0\Tools.AssemblyInfoInputs.cache
-C:\Users\abrahamq.WICRESOFT\source\repos\Tools\Tools\obj\Debug\netstandard2.0\Tools.AssemblyInfo.cs
-C:\Users\abrahamq.WICRESOFT\source\repos\Tools\Tools\obj\Debug\netstandard2.0\Tools.csproj.CoreCompileInputs.cache
-C:\Users\abrahamq.WICRESOFT\source\repos\Tools\Tools\obj\Debug\netstandard2.0\Tools.dll
-C:\Users\abrahamq.WICRESOFT\source\repos\Tools\Tools\obj\Debug\netstandard2.0\Tools.pdb

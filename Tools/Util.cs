@@ -10,5 +10,9 @@ namespace Tools
         {
             return DateTime.Now.ToLongTimeString();
         }
+       public string GetCurrentData()
+        {
+            return DateTime.Now.ToLongDateString();
+        }
     }
 }
